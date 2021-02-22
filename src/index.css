@@ -1,0 +1,46 @@
+.btn.dropdown-toggle  {
+  width:150px;
+  text-align:left;
+}
+body{
+  background-color: #535353;
+}
+span.caret {
+  position: absolute;
+  left: 90%;
+  top: 45%;
+}
+
+label {
+  padding-top:5px;
+}
+
+.form-label {
+  padding-left:0px ;
+  color: white;
+}
+.form.col-sm-6.form-group {
+  padding-left: 10%;
+}
+img {
+  width:140px;
+  height:140px;
+}
+
+.btn-success {
+  background-color: #3b7d4a!important;
+}
+
+.btn-success:hover {
+  background-color: #4daf64!important;
+}
+
+img.track {
+  border: 1px solid #8a8a8a;
+}
+.container.col-sm-6 {
+ padding-left: 25%;
+}
+.AmplifySignOut{
+  color: #3b7d4a;
+}
